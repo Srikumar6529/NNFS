@@ -1,6 +1,6 @@
 # NNFS
 Neural Network from Scratch
-The project uses a neural network with single hidden layers to classify images from the MNIST dataset. The network architecture includes ReLU activation functions and a softmax output layer for multiclass classification.
+The project uses a neural network with single hidden layers to classify images from the MNIST dataset. The network architecture includes ReLU activation functions and a softmax activation function for the output layer for multiclass classification.
 
 ## Project Overview
 
@@ -13,4 +13,4 @@ The project uses a neural network with single hidden layers to classify images f
 - **Learning Rate**: 0.01
 
 Results
-After training the neural network for 100 epochs, the project achieved a test accuracy of approximately 98.13%.
+After training the neural network for 100 epochs, the project achieved a test accuracy of approximately 93%.
